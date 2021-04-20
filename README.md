@@ -1,5 +1,5 @@
 # fruit-master
-ENAE380 Final Project
+Flight Software Systems Final Project
 
 This is my final project for the UMD Aerospace Engineering Flight Software Course.
 There is one python file and many different .png, .wav, or other types of add-on files
